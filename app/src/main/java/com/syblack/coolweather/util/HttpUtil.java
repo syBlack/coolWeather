@@ -1,5 +1,9 @@
 package com.syblack.coolweather.util;
 
+import android.widget.Toast;
+
+import com.syblack.coolweather.activity.ChooseAreaActivity;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
